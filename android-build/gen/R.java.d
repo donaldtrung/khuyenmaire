@@ -1,0 +1,24 @@
+D:\SlideMenu-master\android-build\gen\org\qtproject\example\SlideMenu\R.java \
+ : D:\SlideMenu-master\android-build\res\layout\splash.xml \
+D:\SlideMenu-master\android-build\res\values\libs.xml \
+D:\SlideMenu-master\android-build\res\values\strings.xml \
+D:\SlideMenu-master\android-build\res\values-de\strings.xml \
+D:\SlideMenu-master\android-build\res\values-el\strings.xml \
+D:\SlideMenu-master\android-build\res\values-es\strings.xml \
+D:\SlideMenu-master\android-build\res\values-et\strings.xml \
+D:\SlideMenu-master\android-build\res\values-fa\strings.xml \
+D:\SlideMenu-master\android-build\res\values-fr\strings.xml \
+D:\SlideMenu-master\android-build\res\values-id\strings.xml \
+D:\SlideMenu-master\android-build\res\values-it\strings.xml \
+D:\SlideMenu-master\android-build\res\values-ja\strings.xml \
+D:\SlideMenu-master\android-build\res\values-ms\strings.xml \
+D:\SlideMenu-master\android-build\res\values-nb\strings.xml \
+D:\SlideMenu-master\android-build\res\values-nl\strings.xml \
+D:\SlideMenu-master\android-build\res\values-pl\strings.xml \
+D:\SlideMenu-master\android-build\res\values-pt-rBR\strings.xml \
+D:\SlideMenu-master\android-build\res\values-ro\strings.xml \
+D:\SlideMenu-master\android-build\res\values-rs\strings.xml \
+D:\SlideMenu-master\android-build\res\values-ru\strings.xml \
+D:\SlideMenu-master\android-build\res\values-zh-rCN\strings.xml \
+D:\SlideMenu-master\android-build\res\values-zh-rTW\strings.xml \
+D:\SlideMenu-master\android-build\bin\AndroidManifest.xml \

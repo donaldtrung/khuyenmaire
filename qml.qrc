@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/MenuIconLive.qml</file>
+        <file>qml/OfferComponent.qml</file>
+        <file>qml/NotiComponent.qml</file>
+        <file>qml/ProfileComponent.qml</file>
+        <file>qml/CouponComponent.qml</file>
+        <file>qml/BrandComponent.qml</file>
+        <file>qml/String.qml</file>
+        <file>qml/Color.qml</file>
+        <file>qml/MenuBottombar.qml</file>
+        <file>qml/BrandsComponent.qml</file>
+    </qresource>
+</RCC>

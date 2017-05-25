@@ -1,0 +1,26 @@
+D:\SlideMenu-master\android-build\bin\classes.dex : \
+D:\SlideMenu-master\android-build\bin\classes\org\kde\necessitas\ministro\IMinistro$Stub$Proxy.class \
+D:\SlideMenu-master\android-build\bin\classes\org\kde\necessitas\ministro\IMinistro$Stub.class \
+D:\SlideMenu-master\android-build\bin\classes\org\kde\necessitas\ministro\IMinistro.class \
+D:\SlideMenu-master\android-build\bin\classes\org\kde\necessitas\ministro\IMinistroCallback$Stub$Proxy.class \
+D:\SlideMenu-master\android-build\bin\classes\org\kde\necessitas\ministro\IMinistroCallback$Stub.class \
+D:\SlideMenu-master\android-build\bin\classes\org\kde\necessitas\ministro\IMinistroCallback.class \
+D:\SlideMenu-master\android-build\bin\classes\org\qtproject\example\SlideMenu\BuildConfig.class \
+D:\SlideMenu-master\android-build\bin\classes\org\qtproject\example\SlideMenu\R$array.class \
+D:\SlideMenu-master\android-build\bin\classes\org\qtproject\example\SlideMenu\R$attr.class \
+D:\SlideMenu-master\android-build\bin\classes\org\qtproject\example\SlideMenu\R$layout.class \
+D:\SlideMenu-master\android-build\bin\classes\org\qtproject\example\SlideMenu\R$string.class \
+D:\SlideMenu-master\android-build\bin\classes\org\qtproject\example\SlideMenu\R.class \
+D:\SlideMenu-master\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$1.class \
+D:\SlideMenu-master\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$2.class \
+D:\SlideMenu-master\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$3$1$1.class \
+D:\SlideMenu-master\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$3$1.class \
+D:\SlideMenu-master\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$3.class \
+D:\SlideMenu-master\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$4.class \
+D:\SlideMenu-master\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$5.class \
+D:\SlideMenu-master\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$6.class \
+D:\SlideMenu-master\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtActivity.class \
+D:\SlideMenu-master\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtApplication$InvokeResult.class \
+D:\SlideMenu-master\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtApplication.class \
+D:\SlideMenu-master\android-build\bin\dexedLibs\QtAndroid-bundled-d9a459c635c13e1b3ef19122cba658b0.jar \
+D:\SlideMenu-master\android-build\bin\dexedLibs\QtAndroidAccessibility-bundled-58398bbd526f4a4d6d23b729991a694f.jar \
